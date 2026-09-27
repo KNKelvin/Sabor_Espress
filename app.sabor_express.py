@@ -7,7 +7,7 @@ restaurantes = [{'nome':'Praça', 'categoria':'Japonesa', 'ativo':False},
 def exibir_nome_do_programa():
        print("""
 
-    ("𝕊𝕒𝕓𝕠𝕣 𝔼𝕩𝕡𝕣𝕖𝕤𝕤𝕒")
+    ("𝕊𝕒𝕓𝕠𝕣 𝔼𝕩𝕡𝕣𝕖𝕤𝕤𝕒 Bem Vindo")
 """)
     '''Exibi as opções da tela da aplicação'''
 def exibir_opcoes():
